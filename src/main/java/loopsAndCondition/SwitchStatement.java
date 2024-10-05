@@ -1,6 +1,6 @@
 package loopsAndCondition;
 
-public class switchStatement {
+public class SwitchStatement {
 	public static void main(String[] args) {
 		printDay(5);
 		printDay(10);
